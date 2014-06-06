@@ -1,0 +1,7 @@
+parameters:
+#    yonynet.example.class: yony\netBundle\Example
+
+services:
+#    yonynet.example:
+#        class: %yonynet.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
